@@ -1,2 +1,4 @@
 # wangwneho
-## NCU CSIE
+- C++
+- Java
+- Python
